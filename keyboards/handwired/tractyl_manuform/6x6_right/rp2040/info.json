@@ -1,0 +1,18 @@
+{
+    "keyboard_name": "Tractyl Manuform (6x6) RP2040",
+    "matrix_pins": {
+        "cols": [ "GP8", "GP7", "GP6", "GP5", "GP4", "GP28" ],
+        "rows": [ "GP22", "GP21", "GP20", "GP19", "GP18", "GP17", "GP16" ]
+    },
+    "diode_direction": "ROW2COL",
+    "split": {
+        "matrix_pins": {
+            "right": {
+                "cols": [ "GP8", "GP7", "GP6", "GP5", "GP4", "GP3" ],
+                "rows": [ "GP9", "GP10", "GP11", "GP12", "GP13", "GP14", "GP15" ]
+            }
+        }
+    },
+    "processor": "RP2040",
+    "bootloader": "rp2040"
+}
