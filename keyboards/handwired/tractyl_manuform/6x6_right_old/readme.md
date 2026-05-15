@@ -1,6 +1,6 @@
-# 6x6_right
+# handwired/tractyl_manuform/6x6_right
 
-![6x6_right](imgur.com image replace me!)
+![handwired/tractyl_manuform/6x6_right](imgur.com image replace me!)
 
 *A short description of the keyboard/project*
 
@@ -10,11 +10,11 @@
 
 Make example for this keyboard (after setting up your build environment):
 
-    make 6x6_right:default
+    make handwired/tractyl_manuform/6x6_right:default
 
 Flashing example for this keyboard:
 
-    make 6x6_right:default:flash
+    make handwired/tractyl_manuform/6x6_right:default:flash
 
 See the [build environment setup](https://docs.qmk.fm/#/getting_started_build_tools) and the [make instructions](https://docs.qmk.fm/#/getting_started_make_guide) for more information. Brand new to QMK? Start with our [Complete Newbs Guide](https://docs.qmk.fm/#/newbs).
 
